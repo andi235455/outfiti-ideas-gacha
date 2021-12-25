@@ -4,8 +4,8 @@
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-7559442105607010/5935405381",
-      "admob_nativeid": "ca-app-pub-7559442105607010/1178431322",
-      "admob_openid": "ca-app-pub-7559442105607010/5615519722",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
       "admob_rewardid": "ca-app-pub-7559442105607010/3896399559", 
       "interval": 1,
       "coin_reward": 0
@@ -16,7 +16,7 @@
 	{
       "title":"Batako",
       "image":"https://play-lh.googleusercontent.com/eaYAxU40wSmnDK6olUEVJqBXjUc-cm8dlJm643FI4-KBZkb4Nv8eJD4oUHEycEDufBc=w512-h512-n-rw",
-      "link":"https://play.google.com/store/apps/developer?id=KolangKaling"
+      "link":"https://play.google.com/store/apps/dev?id=5779188693858827561"
     }
   ],
 "Categories": [
@@ -3627,4 +3627,3 @@
     }
   ]
 }
-
